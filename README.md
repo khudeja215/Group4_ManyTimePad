@@ -12,7 +12,7 @@ Research based on what we know bout the messages to find clues to help come up w
 
 
 Write a program in Rust that finds the key to generate the plaintext from the provided cipher texts.
-The general steps are:
+The general steps are: code attached
 
 Find the length of the longest input cipher text. 
 Generate a key of that length.
